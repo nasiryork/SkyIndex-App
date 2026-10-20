@@ -1,0 +1,4 @@
+dist
+.wrangler
+scripts/raw
+.DS_Store
